@@ -1,0 +1,207 @@
+canonical_identifier: bkk:krp/KR6k0033/v1
+canonical_location: https://kanripo.org/bkk/KR6k0033/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 根本說一切有部尼陀那目得迦
+  identifiers:
+    alt_id:
+    - T24n1452
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T24/T24n1452.xml
+    old_id: T24n1452
+  edition:
+    short: bkk
+editions:
+- short: 久
+  label: 久
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: 宮
+  label: 宮
+  source_xml_id: wit5
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 宮-CB
+  label: 宮-CB
+  source_xml_id: wit8
+- short: 聖
+  label: 聖
+  source_xml_id: wit9
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit6
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit10
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0033_000.yaml, hash: 'sha256:cf07705212689d2de27c2022b679910e44d97d2f9ab80bbd3ee420f3d1634781'}
+  - {seq: 1, filename: KR6k0033_001.yaml, hash: 'sha256:368fcfa055979d5be59898d9be5420863dba1b43f5123ac4efb28d1e5260f31e'}
+  - {seq: 2, filename: KR6k0033_002.yaml, hash: 'sha256:894d984f6b00904bbe6dddf1ae333993fe275aa52bf6d44f806e3dca246ff3a6'}
+  - {seq: 3, filename: KR6k0033_003.yaml, hash: 'sha256:09059d542e22efa8eac5f62e24c553071aaf40b3000fef58eeed7665e18c3a47'}
+  - {seq: 4, filename: KR6k0033_004.yaml, hash: 'sha256:6805467929db73c43c1d4882f33fb270dd274284b2590bf0fddc5b3a61b360f5'}
+  - {seq: 5, filename: KR6k0033_005.yaml, hash: 'sha256:50b305698a94b62dcb5bddc3bfd9c963f2d7a6ca33f052638ae33872bca11108'}
+  - {seq: 6, filename: KR6k0033_006.yaml, hash: 'sha256:c7525ef59d4bcb42e937f9c91edd4a53d8382db2e16c0ff3799438024cec18eb'}
+  - {seq: 7, filename: KR6k0033_007.yaml, hash: 'sha256:f373e836fc84396d527e991cc7e09da1a8eba40df3d4d2ed5e2633c3e77f040c'}
+  - {seq: 8, filename: KR6k0033_008.yaml, hash: 'sha256:330dde8d45ff2f9634a638e5d4c18a9ea5bc4bdadeee9e273acdc63ea298474e'}
+  - {seq: 9, filename: KR6k0033_009.yaml, hash: 'sha256:d2dbe0e57100960d6a05f1320e95cd1787bb80b07ddcb61587650c5fc67ae760'}
+  - {seq: 10, filename: KR6k0033_010.yaml, hash: 'sha256:44b5c832b23b97708133d882544d7e28740048af02c9233b5b5a29d6585a911c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0033_001.markers.yaml, hash: 'sha256:f14f11c67fa15acf9da83ffb7ceb12a167ed2abe96ba9fe45138011ab637085f'}
+  - {seq: 2, role: markers, filename: assets/KR6k0033_002.markers.yaml, hash: 'sha256:394d90256b56e8b0f7fdc2685f8303df69fc6f6fe562db461173b66f9869bd33'}
+  - {seq: 3, role: markers, filename: assets/KR6k0033_003.markers.yaml, hash: 'sha256:471f0245f4f8036c7ff2a7987e477e19a6c138c5d80af14b837db2be7ea65b73'}
+  - {seq: 4, role: markers, filename: assets/KR6k0033_004.markers.yaml, hash: 'sha256:724c863b4657db86108b8aec6727175e12b6f0fda73c808f2714f241cd0f3bb0'}
+  - {seq: 5, role: markers, filename: assets/KR6k0033_005.markers.yaml, hash: 'sha256:584f1e7ab3d433727a79de4a82d565fa0d79b2a7497f194851d0713730a8e42b'}
+  - {seq: 6, role: markers, filename: assets/KR6k0033_006.markers.yaml, hash: 'sha256:b94571629beb5530912cb3f02a8c3de0b53b0b04ebcda50404f83c3a11465319'}
+  - {seq: 7, role: markers, filename: assets/KR6k0033_007.markers.yaml, hash: 'sha256:62af1df1c3a89b9ae3448d23620e4e2294367be815c1afe3451d8d5fe476e397'}
+  - {seq: 8, role: markers, filename: assets/KR6k0033_008.markers.yaml, hash: 'sha256:8cd0d7a7779b0a9e1ae46f0c5ffbf398099b4f8a7b2683b8ff9923afd58ef444'}
+  - {seq: 9, role: markers, filename: assets/KR6k0033_009.markers.yaml, hash: 'sha256:6f981b19942582706b913a358abd84bd8094e0065e765c8c9f7459b6ae161887'}
+  - {seq: 10, role: markers, filename: assets/KR6k0033_010.markers.yaml, hash: 'sha256:a87d7227492373e7331306868e023d2d482b243ceaecf61e7d71da4dcf332fe6'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0033_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5916
+  label: 根本說一切有部尼陀那卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0033_T_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 1 尼陀那
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0033_T_001-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0033_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5402
+  label: 根本說一切有部尼陀那卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0033_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 5792
+  label: 根本說一切有部尼陀那卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0033_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 5411
+  label: 根本說一切有部尼陀那卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0033_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 4885
+  label: 根本說一切有部尼陀那卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0033_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 5643
+  label: 根本說一切有部目得迦卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0033_T_006-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 2 目得迦
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0033_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 6244
+  label: 根本說一切有部目得迦卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0033_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 5463
+  label: 根本說一切有部目得迦卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0033_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 5311
+  label: 根本說一切有部目得迦卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0033_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 4294
+  label: 根本說一切有部目得迦卷第十
+  type: juan
+  level: 1
+hash: sha256:e489281d8fc556815e98169873b052c5385aff4e7c42af692adadedef6adf80b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
